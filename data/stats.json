@@ -1,0 +1,12 @@
+{
+  "player": {"name":"Lola McConaghy","number":"15","position":"Attack/Midfield","hometown":"Calgary, Alberta"},
+  "source": "https://whitmanblues.com/sports/womens-lacrosse/roster/lola-mcconaghy/6312",
+  "lastUpdated": null,
+  "status": "seeded",
+  "seasons": {
+    "2025": {"gp":18,"gs":17,"g":47,"a":5,"pts":52,"sh":86,"shp":54.7,"sog":68,"sogp":79.1,"gb":13,"ct":6,"dc":4,"to":30},
+    "2026": {"gp":20,"gs":20,"g":60,"a":7,"pts":67,"sh":103,"shp":58.3,"sog":80,"sogp":77.7,"gb":37,"ct":25,"dc":14,"to":35},
+    "2027": {"gp":0,"gs":0,"g":0,"a":0,"pts":0,"sh":0,"shp":0,"sog":0,"sogp":0,"gb":0,"ct":0,"dc":0,"to":0}
+  },
+  "games": []
+}
